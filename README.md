@@ -4,6 +4,6 @@ A very simple program allows the user to upload a photo, grayscale it, and save 
 The program was designed using C# language together with a AFORGE library. 
 You may download AFORGE library in the following link: http://www.aforgenet.com/framework/downloads.html
 
-Looking forwards to see your contributions, feel free to contact me anytime :).
+Looking forward to see your contributions, feel free to contact me anytime :).
 
 ![alt text](https://image.ibb.co/dobPza/1.png)
